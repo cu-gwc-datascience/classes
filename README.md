@@ -1,6 +1,8 @@
 # Girls Who Code @ Columbia University
 ## Class 3: Intro to Data Science with Python
 
+**Class 3 Syllabus**
+
 **What**: 8 classes introducing data science using python
 
 **Where**: Zoom/Google Colab
@@ -15,6 +17,7 @@ Broad Goals:
 * Show how data science is used to solve real world problems
 * Show that data science is relevant to things students may be interested in
 * Show other career avenues for students interested in CS
+
 Skill-based Goals:
 * Import, manipulate, and plot datasets
 * Learn to analyze data, pose questions that can be answered by investigating relationships among variables in a dataset
