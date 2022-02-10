@@ -2,8 +2,11 @@
 ## Class 3: Intro to Data Science with Python
 
 **What**: 8 classes introducing data science using python
+
 **Where**: Zoom/Google Colab
+
 **When**: Saturdays 10am-12:30pm; Spring 2022
+
 **Who**: High school girls with a basic introduction to python
 
 ### **Course Learning Goals**
