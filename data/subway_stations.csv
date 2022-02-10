@@ -134,47 +134,47 @@
 419,Bowling Green,Manhattan,-74.014008,40.704914,"4, 5",2
 420,Wall St,Manhattan,-74.011862,40.707557,"4, 5",2
 427,Fulton St,Manhattan,-74.009509,40.710368,"4, 5",2
-29,Brooklyn Bridge - City Hall,Manhattan,-74.004131,40.713065,4-5-6-6 Express,4
-31,Grand Central - 42nd St,Manhattan,-73.9767133,40.75180743,4-5-6-6 Express,4
-49,Lexington Ave - 59th St,Manhattan,-73.967967,40.762526,4-5-6-6 Express,4
-105,Union Sq - 14th St,Manhattan,-73.989951,40.734673,4-5-6-6 Express,4
-451,86th St,Manhattan,-73.955589,40.779492,4-5-6-6 Express,4
-468,125th St,Manhattan,-73.937594,40.804138,4-5-6-6 Express,4
-1,Astor Pl,Manhattan,-73.99107,40.730054,4-6-6 Express,3
-2,Canal St,Manhattan,-74.000193,40.718803,4-6-6 Express,3
-32,33rd St,Manhattan,-73.982076,40.746081,4-6-6 Express,3
-33,96th St,Manhattan,-73.95107,40.785672,4-6-6 Express,3
-34,77th St,Manhattan,-73.959874,40.77362,4-6-6 Express,3
-85,51st St,Manhattan,-73.97192,40.757107,4-6-6 Express,3
-92,23rd St,Manhattan,-73.986599,40.739864,4-6-6 Express,3
-102,68th St - Hunter College,Manhattan,-73.96387,40.768141,4-6-6 Express,3
-200,28th St,Manhattan,-73.984264,40.74307,4-6-6 Express,3
-450,110th St,Manhattan,-73.94425,40.79502,4-6-6 Express,3
-457,Bleecker St,Manhattan,-73.994659,40.72591467,4-6-6 Express,3
-458,103rd St,Manhattan,-73.947478,40.7906,4-6-6 Express,3
-462,116th St,Manhattan,-73.941617,40.798629,4-6-6 Express,3
-467,Spring St,Manhattan,-73.997141,40.722301,4-6-6 Express,3
-26,Buhre Ave,Bronx,-73.832569,40.84681,6-6 Express,2
-27,3rd Ave - 138th St,Bronx,-73.926138,40.810476,6-6 Express,2
-28,Castle Hill Ave,Bronx,-73.851222,40.834255,6-6 Express,2
-30,Zerega Ave,Bronx,-73.847036,40.836488,6-6 Express,2
-89,Hunts Point Ave,Bronx,-73.890549,40.820948,6-6 Express,2
-91,Middletown Rd,Bronx,-73.836322,40.843863,6-6 Express,2
-201,Pelham Bay Park,Bronx,-73.828121,40.852462,6-6 Express,2
-202,Westchester Sq - E Tremont Ave,Bronx,-73.842952,40.839892,6-6 Express,2
-463,Parkchester,Bronx,-73.860816,40.833226,6-6 Express,2
-23,Mets - Willets Point,Queens,-73.845625,40.754622,7-7 Express,2
-24,Junction Blvd,Queens,-73.869527,40.749145,7-7 Express,2
-25,Flushing - Main St,Queens,-73.83003,40.7596,7-7 Express,2
-54,Woodside - 61st St,Queens,-73.902984,40.74563,7-7 Express,2
-93,Court Sq,Queens,-73.945264,40.747023,7-7 Express,2
-95,Hunters Point Ave,Queens,-73.948916,40.742216,7-7 Express,2
-101,Vernon Blvd - Jackson Ave,Queens,-73.953581,40.742626,7-7 Express,2
-103,Queensboro Plz,Queens,-73.94016354,40.75063565,7-7 Express,2
-197,Times Sq - 42nd St,Manhattan,-73.987691,40.755477,7-7 Express,2
-204,Grand Central - 42nd St,Manhattan,-73.976041,40.751431,7-7 Express,2
-466,5th Ave - Bryant Pk,Manhattan,-73.981963,40.753821,7-7 Express,2
-470,34th St - Hudson Yards,Manhattan,-74.00219709,40.75544636,7-7 Express,2
+29,Brooklyn Bridge - City Hall,Manhattan,-74.004131,40.713065,"4, 5, 6",4
+31,Grand Central - 42nd St,Manhattan,-73.9767133,40.75180743,"4, 5, 6",4
+49,Lexington Ave - 59th St,Manhattan,-73.967967,40.762526,"4, 5, 6",4
+105,Union Sq - 14th St,Manhattan,-73.989951,40.734673,"4, 5, 6",4
+451,86th St,Manhattan,-73.955589,40.779492,"4, 5, 6",4
+468,125th St,Manhattan,-73.937594,40.804138,"4, 5, 6",4
+1,Astor Pl,Manhattan,-73.99107,40.730054,"4, 6",3
+2,Canal St,Manhattan,-74.000193,40.718803,"4, 6",3
+32,33rd St,Manhattan,-73.982076,40.746081,"4, 6",3
+33,96th St,Manhattan,-73.95107,40.785672,"4, 6",3
+34,77th St,Manhattan,-73.959874,40.77362,"4, 6",3
+85,51st St,Manhattan,-73.97192,40.757107,"4, 6",3
+92,23rd St,Manhattan,-73.986599,40.739864,"4, 6",3
+102,68th St - Hunter College,Manhattan,-73.96387,40.768141,"4, 6",3
+200,28th St,Manhattan,-73.984264,40.74307,"4, 6",3
+450,110th St,Manhattan,-73.94425,40.79502,"4, 6",3
+457,Bleecker St,Manhattan,-73.994659,40.72591467,"4, 6",3
+458,103rd St,Manhattan,-73.947478,40.7906,"4, 6",3
+462,116th St,Manhattan,-73.941617,40.798629,"4, 6",3
+467,Spring St,Manhattan,-73.997141,40.722301,"4, 6",3
+26,Buhre Ave,Bronx,-73.832569,40.84681,6,2
+27,3rd Ave - 138th St,Bronx,-73.926138,40.810476,6,2
+28,Castle Hill Ave,Bronx,-73.851222,40.834255,6,2
+30,Zerega Ave,Bronx,-73.847036,40.836488,6,2
+89,Hunts Point Ave,Bronx,-73.890549,40.820948,6,2
+91,Middletown Rd,Bronx,-73.836322,40.843863,6,2
+201,Pelham Bay Park,Bronx,-73.828121,40.852462,6,2
+202,Westchester Sq - E Tremont Ave,Bronx,-73.842952,40.839892,6,2
+463,Parkchester,Bronx,-73.860816,40.833226,6,2
+23,Mets - Willets Point,Queens,-73.845625,40.754622,7,2
+24,Junction Blvd,Queens,-73.869527,40.749145,7,2
+25,Flushing - Main St,Queens,-73.83003,40.7596,7,2
+54,Woodside - 61st St,Queens,-73.902984,40.74563,7,2
+93,Court Sq,Queens,-73.945264,40.747023,7,2
+95,Hunters Point Ave,Queens,-73.948916,40.742216,7,2
+101,Vernon Blvd - Jackson Ave,Queens,-73.953581,40.742626,7,2
+103,Queensboro Plz,Queens,-73.94016354,40.75063565,7,2
+197,Times Sq - 42nd St,Manhattan,-73.987691,40.755477,7,2
+204,Grand Central - 42nd St,Manhattan,-73.976041,40.751431,7,2
+466,5th Ave - Bryant Pk,Manhattan,-73.981963,40.753821,7,2
+470,34th St - Hudson Yards,Manhattan,-74.00219709,40.75544636,7,2
 55,Far Rockaway - Mott Ave,Queens,-73.755405,40.603995,A,1
 124,Aqueduct Racetrack,Queens,-73.835919,40.672097,A,1
 180,175th St,Manhattan,-73.939704,40.847391,A,1
