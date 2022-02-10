@@ -30,7 +30,7 @@ Skill-based Goals:
 
 ## Week 1: Intro/Review of Python Basics
 * Google slides introduction to the course (GWC_Class3_Day1)
-* Review of Python basics: ([Week1.ipynb](https://colab.research.google.com/github/CU-GWC-Data-Science/classes/blob/main/Week1.ipynb)
+* Review of Python basics: ([Week1.ipynb](https://colab.research.google.com/github/CU-GWC-Data-Science/classes/blob/main/Week1.ipynb))
   * Intro to Google Colab
   * Print statements
   * Strings and numbers
@@ -58,7 +58,7 @@ Skill-based Goals:
   * Correlation vs causation
 
 ## Week 5: Visualizing Geographic Data
-* Use gloabal and local maps to visualize data ([Week5_Geographic_DataVisualization](https://colab.research.google.com/github/CU-GWC-Data-Science/classes/blob/main/Week5_Geographic_DataVisualization.ipynb))
+* Use gloabal and local maps to visualize data ([Week5_Geographic_DataVisualization.ipynb](https://colab.research.google.com/github/CU-GWC-Data-Science/classes/blob/main/Week5_Geographic_DataVisualization.ipynb))
 * Need to download: LGMR_SST_climo.nc, LGM_best_estimate.shp
   * Intro to cartopy package
   * Visualize spatial data
