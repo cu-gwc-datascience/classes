@@ -29,7 +29,7 @@ Skill-based Goals:
 ## **Course Outline**
 
 ## Week 1: Intro/Review of Python Basics
-* Google slides introduction to the course (GWC_Class3_Day1)
+* Google slides introduction to the course ([GWC_Class3_Day1](https://docs.google.com/presentation/d/1Ta2jAEfct5IOknCZeYuQhcgA4XvDN4srilol19xNwMM/edit#slide=id.p))
 * Review of Python basics: ([Week1.ipynb](https://colab.research.google.com/github/CU-GWC-Data-Science/classes/blob/main/Week1.ipynb))
   * Intro to Google Colab
   * Print statements
