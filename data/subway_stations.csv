@@ -59,81 +59,81 @@
 241,90th St - Elmhurst Av,Queens,-73.876613,40.748408,7,1
 293,33rd St,Queens,-73.930997,40.744587,7,1
 294,40th St,Queens,-73.924016,40.743781,7,1
-3,50th St,Manhattan,-73.983849,40.761728,2-Jan,2
-86,86th St,Manhattan,-73.976218,40.788644,2-Jan,2
-88,66th St - Lincoln Ctr,Manhattan,-73.982209,40.77344,2-Jan,2
-90,Canal St,Manhattan,-74.006277,40.722854,2-Jan,2
-94,59th St - Columbus Circle,Manhattan,-73.981929,40.768247,2-Jan,2
-96,23rd St,Manhattan,-73.995657,40.744081,2-Jan,2
-97,Houston St,Manhattan,-74.005367,40.728251,2-Jan,2
-193,79th St,Manhattan,-73.979917,40.783934,2-Jan,2
-195,Christopher St - Sheridan Sq,Manhattan,-74.002906,40.733422,2-Jan,2
-199,28th St,Manhattan,-73.993365,40.747215,2-Jan,2
-203,18th St,Manhattan,-73.997871,40.74104,2-Jan,2
-464,Franklin St,Manhattan,-74.006886,40.719318,2-Jan,2
-158,96th St,Manhattan,-73.972323,40.793919,1/2/03,3
-162,72nd St,Manhattan,-73.98197,40.778453,1/2/03,3
-358,34th St - Penn Station,Manhattan,-73.991057,40.750373,1/2/03,3
-359,Times Sq - 42nd St,Manhattan,-73.987495,40.75529,1/2/03,3
-404,Chambers St,Manhattan,-74.009266,40.715478,1/2/03,3
-439,14th St,Manhattan,-74.000201,40.737826,1/2/03,3
-160,Central Park North (110th St),Manhattan,-73.951822,40.799075,3-Feb,2
-168,125th St,Manhattan,-73.945495,40.807754,3-Feb,2
-169,135th St,Manhattan,-73.94077,40.814229,3-Feb,2
-170,116th St,Manhattan,-73.949625,40.802098,3-Feb,2
-402,Fulton St,Manhattan,-74.006571,40.709416,3-Feb,2
-403,Park Pl,Manhattan,-74.008811,40.713051,3-Feb,2
-405,Hoyt St,Brooklyn,-73.9850638,40.69054419,3-Feb,2
-406,Borough Hall,Brooklyn,-73.989998,40.693219,3-Feb,2
-430,Wall St,Manhattan,-74.0091,40.706821,3-Feb,2
-446,Clark St,Brooklyn,-73.993086,40.697466,3-Feb,2
-4,Bergen St,Brooklyn,-73.97499915,40.68086214,2/3/04,3
-115,Grand Army Plaza,Brooklyn,-73.97095633,40.6752947,2/3/04,3
-129,Eastern Pkwy - Bklyn Museum,Brooklyn,-73.96422204,40.67203224,2/3/04,3
+3,50th St,Manhattan,-73.983849,40.761728,"1, 2",2
+86,86th St,Manhattan,-73.976218,40.788644,"1, 2",2
+88,66th St - Lincoln Ctr,Manhattan,-73.982209,40.77344,"1, 2",2
+90,Canal St,Manhattan,-74.006277,40.722854,"1, 2",2
+94,59th St - Columbus Circle,Manhattan,-73.981929,40.768247,"1, 2",2
+96,23rd St,Manhattan,-73.995657,40.744081,"1, 2",2
+97,Houston St,Manhattan,-74.005367,40.728251,"1, 2",2
+193,79th St,Manhattan,-73.979917,40.783934,"1, 2",2
+195,Christopher St - Sheridan Sq,Manhattan,-74.002906,40.733422,"1, 2",2
+199,28th St,Manhattan,-73.993365,40.747215,"1, 2",2
+203,18th St,Manhattan,-73.997871,40.74104,"1, 2",2
+464,Franklin St,Manhattan,-74.006886,40.719318,"1, 2",2
+158,96th St,Manhattan,-73.972323,40.793919,"1, 2, 3",3
+162,72nd St,Manhattan,-73.98197,40.778453,"1, 2, 3",3
+358,34th St - Penn Station,Manhattan,-73.991057,40.750373,"1, 2, 3",3
+359,Times Sq - 42nd St,Manhattan,-73.987495,40.75529,"1, 2, 3",3
+404,Chambers St,Manhattan,-74.009266,40.715478,"1, 2, 3",3
+439,14th St,Manhattan,-74.000201,40.737826,"1, 2, 3",3
+160,Central Park North (110th St),Manhattan,-73.951822,40.799075,"2, 3",2
+168,125th St,Manhattan,-73.945495,40.807754,"2, 3",2
+169,135th St,Manhattan,-73.94077,40.814229,"2, 3",2
+170,116th St,Manhattan,-73.949625,40.802098,"2, 3",2
+402,Fulton St,Manhattan,-74.006571,40.709416,"2, 3",2
+403,Park Pl,Manhattan,-74.008811,40.713051,"2, 3",2
+405,Hoyt St,Brooklyn,-73.9850638,40.69054419,"2, 3",2
+406,Borough Hall,Brooklyn,-73.989998,40.693219,"2, 3",2
+430,Wall St,Manhattan,-74.0091,40.706821,"2, 3",2
+446,Clark St,Brooklyn,-73.993086,40.697466,"2, 3",2
+4,Bergen St,Brooklyn,-73.97499915,40.68086214,"2, 3, 4",3
+115,Grand Army Plaza,Brooklyn,-73.97095633,40.6752947,"2, 3, 4",3
+129,Eastern Pkwy - Bklyn Museum,Brooklyn,-73.96422204,40.67203224,"2, 3, 4",3
 42,Franklin Ave,Brooklyn,-73.95809974,40.67076515,2-3-4-5,4
 116,Atlantic Av - Barclay's Center,Brooklyn,-73.97754994,40.68442017,2-3-4-5,4
 128,Nevins St,Brooklyn,-73.9804068,40.68831058,2-3-4-5,4
-18,Freeman St,Bronx,-73.89175225,40.82998745,5-Feb,2
-19,Intervale Ave,Bronx,-73.89661738,40.82214213,5-Feb,2
-39,Pelham Pkwy,Bronx,-73.86748068,40.85719241,5-Feb,2
-40,Gun Hill Rd,Bronx,-73.86613411,40.87783939,5-Feb,2
-41,Nereid Ave (238 St),Bronx,-73.85431531,40.89828652,5-Feb,2
-43,Simpson St,Bronx,-73.8930664,40.82397684,5-Feb,2
-44,Bronx Park East,Bronx,-73.86835609,40.84876867,5-Feb,2
-45,Winthrop St,Brooklyn,-73.95007935,40.65665931,5-Feb,2
-87,233rd St,Bronx,-73.8573624,40.89314324,5-Feb,2
-130,Beverly Rd,Brooklyn,-73.94884798,40.64512352,5-Feb,2
-131,Church Ave,Brooklyn,-73.94945514,40.65086069,5-Feb,2
-132,Newkirk Ave,Brooklyn,-73.94829991,40.63999124,5-Feb,2
-133,Brooklyn College - Flatbush Ave,Brooklyn,-73.94754121,40.63284241,5-Feb,2
-134,Sterling St,Brooklyn,-73.95072891,40.66277299,5-Feb,2
-248,225th St,Bronx,-73.86021462,40.88802826,5-Feb,2
-253,Jackson Ave,Bronx,-73.90770194,40.81643747,5-Feb,2
-254,Prospect Ave,Bronx,-73.90177779,40.81948726,5-Feb,2
-256,174th St,Bronx,-73.8876936,40.83719555,5-Feb,2
-257,Allerton Ave,Bronx,-73.86723423,40.86548338,5-Feb,2
-272,West Farms Sq - E Tremont Av,Bronx,-73.87996128,40.84020763,5-Feb,2
-273,219th St,Bronx,-73.86250971,40.88388797,5-Feb,2
-276,Burke Ave,Bronx,-73.86705362,40.8712588,5-Feb,2
-285,E 180th St,Bronx,-73.8733461,40.84186304,5-Feb,2
-289,149th St - Grand Concourse,Bronx,-73.92672247,40.81833014,5-Feb,2
-290,3rd Ave - 149th St,Bronx,-73.91779153,40.81602925,5-Feb,2
-455,President St,Brooklyn,-73.9505892,40.6678836,5-Feb,2
-5,Pennsylvania Ave,Brooklyn,-73.89488591,40.66471445,4-Mar,2
-46,Van Siclen Ave,Brooklyn,-73.88940492,40.66551796,4-Mar,2
-135,Crown Hts - Utica Ave,Brooklyn,-73.93293256,40.66897831,4-Mar,2
-136,Kingston Ave,Brooklyn,-73.94215978,40.66948145,4-Mar,2
-213,New Lots Ave,Brooklyn,-73.88411071,40.66631493,4-Mar,2
-217,Junius St,Brooklyn,-73.90244864,40.663589,4-Mar,2
-218,Rockaway Ave,Brooklyn,-73.90895834,40.66261749,4-Mar,2
-221,Saratoga Ave,Brooklyn,-73.91633025,40.66152979,4-Mar,2
-222,Sutter Ave - Rutland Road,Brooklyn,-73.92252119,40.66476679,4-Mar,2
-445,Nostrand Ave,Brooklyn,-73.95042625,40.66993815,4-Mar,2
-123,Borough Hall,Brooklyn,-73.990151,40.692404,5-Apr,2
-141,138th St - Grand Concourse,Bronx,-73.929849,40.813224,5-Apr,2
-419,Bowling Green,Manhattan,-74.014008,40.704914,5-Apr,2
-420,Wall St,Manhattan,-74.011862,40.707557,5-Apr,2
-427,Fulton St,Manhattan,-74.009509,40.710368,5-Apr,2
+18,Freeman St,Bronx,-73.89175225,40.82998745,"2, 5",2
+19,Intervale Ave,Bronx,-73.89661738,40.82214213,"2, 5",2
+39,Pelham Pkwy,Bronx,-73.86748068,40.85719241,"2, 5",2
+40,Gun Hill Rd,Bronx,-73.86613411,40.87783939,"2, 5",2
+41,Nereid Ave (238 St),Bronx,-73.85431531,40.89828652,"2, 5",2
+43,Simpson St,Bronx,-73.8930664,40.82397684,"2, 5",2
+44,Bronx Park East,Bronx,-73.86835609,40.84876867,"2, 5",2
+45,Winthrop St,Brooklyn,-73.95007935,40.65665931,"2, 5",2
+87,233rd St,Bronx,-73.8573624,40.89314324,"2, 5",2
+130,Beverly Rd,Brooklyn,-73.94884798,40.64512352,"2, 5",2
+131,Church Ave,Brooklyn,-73.94945514,40.65086069,"2, 5",2
+132,Newkirk Ave,Brooklyn,-73.94829991,40.63999124,"2, 5",2
+133,Brooklyn College - Flatbush Ave,Brooklyn,-73.94754121,40.63284241,"2, 5",2
+134,Sterling St,Brooklyn,-73.95072891,40.66277299,"2, 5",2
+248,225th St,Bronx,-73.86021462,40.88802826,"2, 5",2
+253,Jackson Ave,Bronx,-73.90770194,40.81643747,"2, 5",2
+254,Prospect Ave,Bronx,-73.90177779,40.81948726,"2, 5",2
+256,174th St,Bronx,-73.8876936,40.83719555,"2, 5",2
+257,Allerton Ave,Bronx,-73.86723423,40.86548338,"2, 5",2
+272,West Farms Sq - E Tremont Av,Bronx,-73.87996128,40.84020763,"2, 5",2
+273,219th St,Bronx,-73.86250971,40.88388797,"2, 5",2
+276,Burke Ave,Bronx,-73.86705362,40.8712588,"2, 5",2
+285,E 180th St,Bronx,-73.8733461,40.84186304,"2, 5",2
+289,149th St - Grand Concourse,Bronx,-73.92672247,40.81833014,"2, 5",2
+290,3rd Ave - 149th St,Bronx,-73.91779153,40.81602925,"2, 5",2
+455,President St,Brooklyn,-73.9505892,40.6678836,"2, 5",2
+5,Pennsylvania Ave,Brooklyn,-73.89488591,40.66471445,"3, 4",2
+46,Van Siclen Ave,Brooklyn,-73.88940492,40.66551796,"3, 4",2
+135,Crown Hts - Utica Ave,Brooklyn,-73.93293256,40.66897831,"3, 4",2
+136,Kingston Ave,Brooklyn,-73.94215978,40.66948145,"3, 4",2
+213,New Lots Ave,Brooklyn,-73.88411071,40.66631493,"3, 4",2
+217,Junius St,Brooklyn,-73.90244864,40.663589,"3, 4",2
+218,Rockaway Ave,Brooklyn,-73.90895834,40.66261749,"3, 4",2
+221,Saratoga Ave,Brooklyn,-73.91633025,40.66152979,"3, 4",2
+222,Sutter Ave - Rutland Road,Brooklyn,-73.92252119,40.66476679,"3, 4",2
+445,Nostrand Ave,Brooklyn,-73.95042625,40.66993815,"3, 4",2
+123,Borough Hall,Brooklyn,-73.990151,40.692404,"4, 5",2
+141,138th St - Grand Concourse,Bronx,-73.929849,40.813224,"4, 5",2
+419,Bowling Green,Manhattan,-74.014008,40.704914,"4, 5",2
+420,Wall St,Manhattan,-74.011862,40.707557,"4, 5",2
+427,Fulton St,Manhattan,-74.009509,40.710368,"4, 5",2
 29,Brooklyn Bridge - City Hall,Manhattan,-74.004131,40.713065,4-5-6-6 Express,4
 31,Grand Central - 42nd St,Manhattan,-73.9767133,40.75180743,4-5-6-6 Express,4
 49,Lexington Ave - 59th St,Manhattan,-73.967967,40.762526,4-5-6-6 Express,4
