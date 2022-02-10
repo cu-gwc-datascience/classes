@@ -65,8 +65,12 @@ Skill-based Goals:
   * Understand various geographic projections and how they can distort data
 
 ## Week 6: Working with Time Series Data
-* Track trends through time
-* Calculate weekly, monthly, and annual averages
+* Learn about time series data
+  * Track trends through time
+  * Calculate daily, monthly, and annual averages
+  * Find relationships between variables
+  * Combine geographic data visualization with time series data
+
 
 ## Week 7: Intro to Machine Learning, Part I
 
