@@ -69,8 +69,6 @@ Skill-based Goals:
   * Track trends through time
   * Calculate daily, monthly, and annual averages
   * Find relationships between variables
-  * Combine geographic data visualization with time series data
-
 
 ## Week 7: Intro to Machine Learning, Part I
 
