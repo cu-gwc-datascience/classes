@@ -65,7 +65,7 @@ Skill-based Goals:
   * Understand various geographic projections and how they can distort data
 
 ## Week 6: Working with Time Series Data
-* Learn about time series data [Week6_TimeSeriesData.ipynb](https://github.com/cu-gwc-datascience/classes/blob/main/Week6_TimeSeriesData.ipynb)
+* Learn about time series data ([Week6_TimeSeriesData.ipynb](https://github.com/cu-gwc-datascience/classes/blob/main/Week6_TimeSeriesData.ipynb))
   * Track trends through time
   * Calculate daily, monthly, and annual averages
   * Find relationships between variables
