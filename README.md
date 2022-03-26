@@ -59,7 +59,7 @@ Skill-based Goals:
 
 ## Week 5: Visualizing Geographic Data
 * Use gloabal and local maps to visualize data ([Week5_Geographic_DataVisualization.ipynb](https://colab.research.google.com/github/CU-GWC-Data-Science/classes/blob/main/Week5_Geographic_DataVisualization.ipynb))
-* Need to download: LGMR_SST_climo.nc, LGM_best_estimate.shp
+* Need to download: LGMR_SST_climo.nc, LGM_ice_sheet_extent.zip
   * Intro to cartopy package
   * Visualize spatial data
   * Understand various geographic projections and how they can distort data
